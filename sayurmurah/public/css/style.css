@@ -1,12 +1,3 @@
-/******************************************************************
-  Template Name: Ogani
-  Description:  Ogani eCommerce  HTML Template
-  Author: Colorlib
-  Author URI: https://colorlib.com
-  Version: 1.0
-  Created: Colorlib
-******************************************************************/
-
 /*------------------------------------------------------------------
 [Table of contents]
 
@@ -2665,21 +2656,9 @@ ol {
 }
 
 .footer__widget p {
-	font-size: 14px;
 	color: grey;
-	margin-bottom: 30px;
-}
-
-.footer__widget form input::placeholder {
-	color: #1c1c1c;
-}
-
-.footer__widget form button {
-	position: absolute;
-	right: 0;
-	top: 0;
-	padding: 0 26px;
-	height: 100%;
+	font-size: 1em;
+	line-height: 2em;
 }
 
 .footer__widget .footer__widget__social a {
@@ -2699,13 +2678,14 @@ ol {
 	-o-transition: all, 0.3s;
 	transition: all, 0.3s;
 	margin-right: 10px;
+	padding-top: 1em;
 }
 footer__widget .footer__widget__social i{
 	height: fit-content;
 }
 
 .footer__widget .footer__widget__social a:last-child {
-	margin-right: 0;
+	margin-top: 1em;
 }
 
 .footer__widget .footer__widget__social a:hover {
@@ -2723,15 +2703,11 @@ footer__widget .footer__widget__social i{
 	overflow: hidden;
 }
 
-.footer__copyright__text {
-	font-size: 14px;
+.footer__copyright__text p{
+	font-size: 1rem;
 	color: white;
-	float: left;
+	text-align: center;
 	line-height: 25px;
-}
-
-.footer__copyright__payment {
-	float: right;
 }
 
 /*---------------------

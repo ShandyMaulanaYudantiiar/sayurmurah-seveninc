@@ -39,7 +39,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+    </div>
+    <div class="row">
             <div class="col-lg-12">
                 <div class="footer__copyright">
                     <div class="footer__copyright__text">
@@ -48,7 +49,6 @@
                 </div>
             </div>
         </div>
-    </div>
 </footer>
 <!-- End Footer -->
 
