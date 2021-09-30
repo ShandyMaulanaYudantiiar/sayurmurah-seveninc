@@ -37,6 +37,8 @@ https://www.figma.com/file/rtdXdzq97j0kY6xWalQ2Jz/SayurMurah.com?node-id=0%3A1
 
 *User*
 
+-user home                  -> On Progress
+
 -Keranjang                  ->
 
 -Rating                     ->
