@@ -24,6 +24,8 @@
 html,
 body {
 	height: 100%;
+	padding: 0;
+	margin: 0;
 	font-family: "Poppins", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
@@ -2678,7 +2680,7 @@ ol {
 	-o-transition: all, 0.3s;
 	transition: all, 0.3s;
 	margin-right: 10px;
-	padding-top: 1em;
+	padding-top: 5.5px;
 }
 footer__widget .footer__widget__social i{
 	height: fit-content;

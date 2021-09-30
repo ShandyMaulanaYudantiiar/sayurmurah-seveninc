@@ -1,6 +1,6 @@
 <!-- Bagian Footer -->
 <footer class="footer spad">
-    <div class="informasi-footer" style="margin-left: 2rem; margin-right: 2rem;">
+    <div class="informasi-footer" style="margin-left: 2rem; margin-right: 2em;">
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__about">
@@ -23,19 +23,22 @@
                         <br/>
                         <li><strong>Nomor WhatsApp:</strong></li>
                         <li><a href="#">+6285282349911</a></li>
+                        <br/>
+                        <li><strong>Email :</strong></li>
+                        <li><a href="#">support@sayurmurah.com</a></li>
                     </ul>
-                    <div class="footer__widget__social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
                 <div class="footer__widget">
                     <h4>Tentang Kami</h4>
                     <p>Sayurmurah adalah salah satu platform penjualan buah sayur dan lain - lain, yang langsung berhubungan dengan pasar - pasar yang ada di Indonesia</p>
+                    <div class="footer__widget__social">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -52,7 +55,7 @@
 </footer>
 <!-- End Footer -->
 
-    <!-- Js Plugins -->
+<!-- Js Plugins -->
     <script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
     <script src="{{ asset('js/bootstrap.min.js') }}"></script>
     <script src="{{ asset('js/jquery.nice-select.min.js') }}"></script>
